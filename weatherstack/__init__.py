@@ -1,0 +1,1 @@
+from weatherstack.client import WeatherStackClient
