@@ -6,7 +6,7 @@ authors = ["Morgan Kilgore <mkilgore301@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-requests = "^2.25.0"
+requests = "^2.31.0"
 pydantic = "^1.7.2"
 
 [tool.poetry.dev-dependencies]
